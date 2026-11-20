@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elisyumplus.github.io/brkdemo2/sitemap.xml
